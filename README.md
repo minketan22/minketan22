@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minketan Tripathi</h1>
 
-<h3 align="center">B.Tech CSE Student | Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">Learning | Building | Improving</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Web+Developer;DSA+Problem+Solver;Node.js+Developer;Preparing+for+Top+MNC+Placements" />
@@ -78,13 +78,12 @@
 ## 📂 Featured Projects
 
 ### 🌦 Weather Monitoring and Analysis System
-A weather analysis website built without external APIs.
+A weather analysis website built external APIs.
 
-### 🔐 File Encryption & Decryption System
-Secure file encryption and decryption with a user-friendly interface.
-
-### 🛒 E-Commerce Backend
-Node.js + Express.js backend with authentication and database integration.
+### 🔐 RideNest Full Stack Project
+A Vehicle Booking platform where you can book cab and agencies can list their vehicle. 
+### 🛒 Portfolio Website Frontened
+HTML + CSS + Javascript 
 
 ---
 
@@ -92,14 +91,14 @@ Node.js + Express.js backend with authentication and database integration.
 
 💼 LinkedIn: https://www.linkedin.com/in/minketan-tripathi-006361278
 
-💻 LeetCode: [Your LeetCode Link](https://leetcode.com/u/Minketan22/)
+💻 LeetCode: (https://leetcode.com/u/Minketan22/)
 
 📧 Email: minketantripathi7858@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=minketan22&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
