@@ -59,12 +59,19 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=minketan22&show_icons=true&theme=tokyonight" />
+<h2 align="center">📈 GitHub Stats</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minketan22&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minketan22&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minketan22&layout=compact&theme=tokyonight" />
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minketan22&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minketan22&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🏆 LeetCode Journey
 
