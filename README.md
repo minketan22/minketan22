@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 
-```md
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
